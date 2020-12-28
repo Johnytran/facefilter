@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847565147485",
+    "project_id": "facefilter-75676",
+    "storage_bucket": "facefilter-75676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847565147485:android:13de00efa8aa6712a7acb4",
+        "android_client_info": {
+          "package_name": "com.example.facefilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847565147485-3jgvn4nd928dvp4g33elpi5ri0mt06gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhAVHyikBs9fdOZdotVWzDaEFfyjU9VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847565147485-3jgvn4nd928dvp4g33elpi5ri0mt06gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
